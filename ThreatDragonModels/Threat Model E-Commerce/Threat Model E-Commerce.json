@@ -1,0 +1,48 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "2026-09-23",
+  "summary": {
+    "title": "Threat Model E-Commerce",
+    "owner": "Maulana saputra",
+    "description": "Aplikasi e-commerce berbasis microservices untuk membantu UMKM melakukan kegiatan perdagangan secara online tanpa memerlukan biaya sewa toko fisik",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Dhio patty Alexander"
+      },
+      {
+        "name": "Fahmi Radiansyah"
+      },
+      {
+        "name": "Muhammad Mufid Azhar"
+      },
+      {
+        "name": "Maulana Saputra"
+      },
+      {
+        "name": "Muhammad Fahri Al Fatah"
+      },
+      {
+        "name": "Muhammad Raihan Avandi"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "DFD Sistem E-Commerce",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Data Flow Diagram untuk aplikasi pemesanan online"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
